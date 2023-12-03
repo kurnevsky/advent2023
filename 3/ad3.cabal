@@ -1,0 +1,10 @@
+cabal-version: 3.0
+name:          ad2
+version:       1.0.0
+
+executable ad2
+  hs-source-dirs: src
+  main-is:        Main.hs
+  build-depends:
+    , array
+    , base
